@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:beige;
+    margin: 0;
+    padding: 30px;
+
+}
+header{
+    background-color: beige;
+    color:rgb(100, 46, 7);
+    text-align: center;
+}
+
+.foto{
+    float: right;
+    margin-right: 20px;
+}
+
+.datos{
+    color:rgb(100, 46, 7);
+    
+}
+a{
+    color:rgb(100, 46, 7);
+    padding-right: 10%;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+a:hover{
+    color:cornflowerblue;
+
+}
+th{
+    color:brown;
+
+}
+table{
+   border-color: black; 
+}
+td,th{
+    border: 1px solid;
+    padding: 2em;
+}
